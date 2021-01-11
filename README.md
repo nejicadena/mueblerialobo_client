@@ -1,2 +1,2 @@
-# mueblerialobo_client
-muestra
+# muebleriaLobo_front
+frontend de aplicación de mueblería
